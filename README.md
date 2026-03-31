@@ -1,3 +1,12 @@
+
+
+
+<img width="1865" height="882" alt="image" src="https://github.com/user-attachments/assets/a7af0245-d2ef-4188-b376-287cd8db0a62" />
+
+<img width="1905" height="876" alt="image" src="https://github.com/user-attachments/assets/def0bcd2-659c-4a10-8961-9edddb266b7e" />
+
+<img width="1894" height="1307" alt="image" src="https://github.com/user-attachments/assets/38fef785-5c40-4e37-a914-afff9857af8f" />
+
 🏥 MedCare Analytics — Healthcare Dashboard
 
 A 3-page interactive hospital analytics dashboard built to demonstrate real-world Power BI skills across KPI reporting, department analysis, and doctor performance tracking.
@@ -42,11 +51,3 @@ Bed occupancy at 78% is within optimal range (60–85%) — no critical pressure
 Patient count grew 8.3% MoM in January 2024, but bed nights dropped 10.8% — suggesting faster patient turnover
 Dr. Deepak Iyer handles the most patients (231) with the highest DAP (3.73) in Neurology — a potential workload concern
 The 55–60 age band is the largest patient cohort, relevant for resource and treatment planning
-
-
-
-<img width="1865" height="882" alt="image" src="https://github.com/user-attachments/assets/a7af0245-d2ef-4188-b376-287cd8db0a62" />
-
-<img width="1905" height="876" alt="image" src="https://github.com/user-attachments/assets/def0bcd2-659c-4a10-8961-9edddb266b7e" />
-
-<img width="1894" height="1307" alt="image" src="https://github.com/user-attachments/assets/38fef785-5c40-4e37-a914-afff9857af8f" />
