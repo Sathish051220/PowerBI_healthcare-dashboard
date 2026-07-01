@@ -8,7 +8,7 @@
 
 A 3-page interactive hospital analytics dashboard built to demonstrate real-world Power BI skills across KPI reporting, department analysis, and doctor performance tracking.
 
-Built with: Power BI Desktop · DAX · Power Query (M) · HTML/CSS prototype
+Built with: Power BI | SQL | DAX | Power Query | Data Modeling 
 
 
 📸 Dashboard Preview
